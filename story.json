@@ -6,15 +6,15 @@
             "options": [
                 {
                     "title": "like",
-                    "target": "2"
+                    "target": "1"
                 },
                 {
                     "title": "dislike",
-                    "target": "3"
+                    "target": "2"
                 },
                 {
                     "title": "hate",
-                    "target": "4"
+                    "target": "3"
                 }
             ]
         },
