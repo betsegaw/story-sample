@@ -2,7 +2,7 @@
     "states": [
         {
             "id": "1",
-            "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KbKdKcGJ4tM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+            "videoUrl": "KbKdKcGJ4tM",
             "options": [
                 {
                     "title": "like",
